@@ -5,7 +5,7 @@ Just basic info about me
 <h1 align="center">Hey there it Shubhangam</h1>
 <h3 align="center">A programming enthusiast</h3>
 
-- 🌱 Currently in the process of learning new programming languages 
+- 🌱 Currently I know Python , C , C++ , Java and I am in the process of learning new programming languages 
 
 - 💬 Areas of interest **Web , Data Science and block chain technology**
 
